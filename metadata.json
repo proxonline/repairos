@@ -1,0 +1,6 @@
+{
+  "name": "RepairOS",
+  "description": "Intelligent PC diagnostics and maintenance workstation for Windows 10 and Windows 11.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

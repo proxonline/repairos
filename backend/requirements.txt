@@ -1,0 +1,5 @@
+# RepairOS Native Python Backend Dependencies
+# Uses Python standard library (sqlite3, json, sys, os, platform, shutil)
+# Optional extensions:
+psutil>=5.9.0; sys_platform == 'win32'
+pytest>=7.0.0
